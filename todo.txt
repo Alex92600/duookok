@@ -1,0 +1,4 @@
+- "Donnez votre avis sur google"
+- Avis produits
+- Promos / Code promos
+- DB : ajouter un champ "last_modified"
